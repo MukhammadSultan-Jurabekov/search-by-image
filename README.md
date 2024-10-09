@@ -18,6 +18,10 @@
 4. Click on "Load unpacked" and select the folder where this repository is located.
 5. The extension should now appear in your list of installed extensions.
 
+'''
+npm install
+'''
+
 ## Usage
 
 1. After installing the extension, you'll see the extension icon in your browser toolbar.
